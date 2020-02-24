@@ -34,3 +34,11 @@ D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\ne
 D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\PracticeGLOBAL\EntityDB\EntityDB\obj\Debug\netcoreapp3.1\EntityDB.csproj.CopyComplete
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\EntityDB.deps.json
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\EntityDB.runtimeconfig.json
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\EntityDB.runtimeconfig.dev.json
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\EntityDB.dll
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\EntityDB.pdb
+D:\PracticeGLOBAL\EntityDB\EntityDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PracticeGLOBAL\EntityDB\EntityDB\obj\Debug\netcoreapp3.1\EntityDB.dll
+D:\PracticeGLOBAL\EntityDB\EntityDB\obj\Debug\netcoreapp3.1\EntityDB.pdb
